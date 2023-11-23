@@ -8,7 +8,7 @@ for char in user_input:
         elif char == 'e':
             total_sum += 2
         elif char == 'i':
-            total_sum += 3
+            total_sum += 4
         elif char == 'o':
             total_sum += 4
         elif char == 'u':
